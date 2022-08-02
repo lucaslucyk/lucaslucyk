@@ -1,11 +1,8 @@
-# Hello 👋
+## Hello 👋
 
+I am a Python developer and other modern languages -_and not so modern_- with experience in software consulting for management and implementation of Time & Attendance projects, access control, visits, tasks and more with [netTime](https://www.grupospec.com/es/productos/software-control-de-presencia) and [SPECManager](https://www.grupospec.com/es/productos/software-control-de-presencia).
 
-## A short description
-
-I am a Python developer and other modern languages -_and not so modern_- with experience in software consulting for management and implementation of Time & Attendance projects, access control, visits, tasks, etc. with [netTime](https://www.grupospec.com/es/productos/software-control-de-presencia) and [SPECManager](https://www.grupospec.com/es/productos/software-control-de-presencia).
-
-I currently work as a developer at [SPEC, SA](https://www.grupospec.com/es), for projects in Argentina, Latin America and Spain.
+I currently work as a developer at [SPEC, SA](https://www.grupospec.com/es), for projects in Argentina, LATAM and Europe.
 
 
 ## Projects
