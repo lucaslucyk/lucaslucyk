@@ -13,7 +13,7 @@ In case you have access, I will give you the link and a brief description of eac
 
 
 ### Developments
-- [Outside works](https://play.google.com/store/apps/details?id=com.spec.mobile.specapp&gl=US): Participation in mobile marking app using [Xamarin Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/).
+- [Outside works](https://play.google.com/store/apps/details?id=com.spec.mobile.specapp&gl=US): Mobile clockings app for [SPEC, SA](https://www.grupospec.com/es) using [Xamarin Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/).
 - [t3-gateway](https://gitlab.com/spec-sa-es/t3-gateway): Gateway for hardware integration of [SPEC, SA](https://www.grupospec.com/es) and third party using Python & [FastAPI](https://fastapi.tiangolo.com/) with containers deployment support with [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/).
 - [netSync](https://gitlab.com/spec-sa-ar/net_sync): Software to migrate and synchronize data between applications of [SPEC, SA](https://www.grupospec.com/es) and various suppliers, such as [Visma](https://latam.visma.com/), [Certronic](https://certronic.io/site/), etc, using Python, [Django](https://www.djangoproject.com/) & [Celery](https://docs.celeryq.dev) with containers deployment support with [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/).
 - [spec-utils](https://gitlab.com/spec-sa-ar/spec-utils): Set of connectors to consume applications of [SPEC, SA](https://www.grupospec.com/es) and third party software from Python.
