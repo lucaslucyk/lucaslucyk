@@ -1,18 +1,20 @@
 ## Hello 👋
 
-I am a Python developer and other modern languages -_and not so modern_- with experience in software consulting for management and implementation of Time & Attendance projects, access control, visits, tasks and more with [netTime](https://www.grupospec.com/es/productos/software-control-de-presencia) and [SPECManager](https://www.grupospec.com/es/productos/software-control-de-presencia).
+I am a Python developer and other modern languages -and not so modern- with experience in software consulting for development, management and implementation of Time & Attendance, Access, Crypto, APIs and more projects.
 
 I currently work as a developer at [SPEC, SA](https://www.grupospec.com/es), for projects in Argentina, LATAM and Europe.
 
 
 ## Projects
 
-Throughout my career in [SPEC, SA](https://www.grupospec.com/es) I have collaborated in various projects, both of development and consulting. A large part of the development projects are Open Source, but for political reasons, access to the source code is controlled.
+Throughout my personal career and within [SPEC, SA](https://www.grupospec.com/es) I have collaborated on multiple projects, both of development and consulting. A large part of the development projects are Open Source, but for political reasons, access to the source code is controlled.
 
 In case you have access, I will give you the link and a brief description of each of them.
 
 
 ### Developments
+- [Appointment Manager](https://github.com/lucaslucyk/appointment-manager): Open Source Multiplatform software for appointments management of multiple professions.
+- [ELEVEN Trade](https://github.com/lucaslucyk/eleven-trade): Mobile application for the automation of transactions in COTPs, with subscription plans, authentications and more.
 - [Outside works](https://play.google.com/store/apps/details?id=com.spec.mobile.specapp&gl=US): Mobile clockings app for [SPEC, SA](https://www.grupospec.com/es) using [Xamarin Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/).
 - [t3-gateway](https://gitlab.com/spec-sa-es/t3-gateway): Gateway for hardware integration of [SPEC, SA](https://www.grupospec.com/es) and third party using Python & [FastAPI](https://fastapi.tiangolo.com/) with containers deployment support with [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/).
 - [netSync](https://gitlab.com/spec-sa-ar/net_sync): Software to migrate and synchronize data between applications of [SPEC, SA](https://www.grupospec.com/es) and various suppliers, such as [Visma](https://latam.visma.com/), [Certronic](https://certronic.io/site/), etc, using Python, [Django](https://www.djangoproject.com/) & [Celery](https://docs.celeryq.dev) with containers deployment support with [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/).
