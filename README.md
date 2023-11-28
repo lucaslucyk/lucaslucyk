@@ -1,27 +1,29 @@
 ## Hello 👋
 
-I am a Python developer and other modern languages -and not so modern- with experience in software consulting for development, management and implementation of Time & Attendance, Access, Crypto, APIs and more projects.
-
-I currently work as a developer at [SPEC, SA](https://www.grupospec.com/es), for projects in Argentina, LATAM and Europe.
+I'm developer with experience in software consulting, management and development of Time & Attendance, Access, Crypto, APIs and more projects. I'm Co-Founder of [ELEDE Group](https://grupoelede.com) and currently work as a developer at [SPEC, SA](https://www.grupospec.com/es), for projects in Argentina, LATAM and Europe.
 
 
 ## Projects
 
-Throughout my personal career and within [SPEC, SA](https://www.grupospec.com/es) I have collaborated on multiple projects, both of development and consulting. A large part of the development projects are Open Source, but for political reasons, access to the source code is controlled.
+Throughout my personal career I have collaborated on multiple projects, both development and consulting. A large part of the projects are Open Source, but for political reasons access to the source code is controlled.
 
-In case you have access, I will give you the link and a brief description of each of them.
+In case you have access, I provide you with the link and a brief description of each of them.
 
 
 ### Developments
-- [Appointment Manager](https://github.com/lucaslucyk/appointment-manager): Open Source Multiplatform software for appointments management of multiple professions.
+- [tria-bot](https://github.com/lucaslucyk/tria-bot): Coin triangulation bot for profit making on [Binance](https://www.binance.com/es-AR) exchange. _*In progress_.
+- [microservices](https://github.com/lucaslucyk/microservices): Microservices course content, using different languages, packages, message queues, Docker, Kubernetes and more. _*In progress_.
+- [sa-model-crud](https://github.com/lucaslucyk/sa-model-crud): Model CRUD manager to handle databases with asynchronous [SQLAlchemy](https://www.sqlalchemy.org/) sessions.
+- [nettime-py](https://github.com/lucaslucyk/nettime-py): Python API client for [SPEC, SA](https://www.grupospec.com/es) netTime applications.
+- [Appointment Manager](https://github.com/lucaslucyk/appointment-manager): Open Source Multiplatform software for appointments management of multiple professions. _*In progress_.
 - [ELEVEN Trade](https://github.com/lucaslucyk/eleven-trade): Mobile application for the automation of transactions in COTPs, with subscription plans, authentications and more.
+- [checksum-api](https://gitlab.com/spec-sa-ar/checksum-api): .NET Core API microservice to generate checksum with CRC-32 algorithm. 
 - [Outside works](https://play.google.com/store/apps/details?id=com.spec.mobile.specapp&gl=US): Mobile clockings app for [SPEC, SA](https://www.grupospec.com/es) using [Xamarin Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/).
 - [t3-gateway](https://gitlab.com/spec-sa-es/t3-gateway): Gateway for hardware integration of [SPEC, SA](https://www.grupospec.com/es) and third party using Python & [FastAPI](https://fastapi.tiangolo.com/) with containers deployment support with [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/).
 - [netSync](https://gitlab.com/spec-sa-ar/net_sync): Software to migrate and synchronize data between applications of [SPEC, SA](https://www.grupospec.com/es) and various suppliers, such as [Visma](https://latam.visma.com/), [Certronic](https://certronic.io/site/), etc, using Python, [Django](https://www.djangoproject.com/) & [Celery](https://docs.celeryq.dev) with containers deployment support with [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/).
 - [spec-utils](https://gitlab.com/spec-sa-ar/spec-utils): Set of connectors to consume applications of [SPEC, SA](https://www.grupospec.com/es) and third party software from Python.
   It is used by [SPEC, SA](https://www.grupospec.com/es) in [netSync](https://gitlab.com/spec-sa-ar/net_sync), but it can be used by any person in their integration projects or other desired purpose.
   It is an Open Source project and anyone can use it from [PyPI](https://pypi.org/project/spec-utils/) or access their documentation in [Read the Docs](https://spec-utils.readthedocs.io/en/latest/).
-- [netsync-installer](https://gitlab.com/spec-sa-ar/netsync-installer): Automatic [netSync](https://gitlab.com/spec-sa-ar/net_sync) deployer for Windows, using Python & Shell Scripts.
 - [sgc-web](https://gitlab.com/spec-sa-ar/sgc-web): Class management system, reports, presentism and liquidation for the [Megatlon](https://www.megatlon.com/) gyms network using Python & Django.
 - [specmanager-api](https://gitlab.com/spec-sa-ar/specmanager-api): Set of internal modules programmed in LIPS for [SPECManager](https://www.grupospec.com/es/productos/software-control-de-presencia),adding the ability to process HTTP requests to synchronize payrolls, signings, etc..
 - [nt-updater](https://gitlab.com/spec-sa-ar/nt_updater): Automatic updater for critical versions of [netTime](https://www.grupospec.com/es/productos/software-control-de-presencia) in on-premise customers.
@@ -64,7 +66,7 @@ Politécnico San Arnoldo Janssen 0418. 2007 – 2012.
 ## Outstanding knowledge
 - Languages: Python, JS, C# & PHP.
 - Frameworks: Django, FastAPI, Xamarin, EF Core & others.
-- Others: Docker, Kubernetes, Celery, Kafka, Airflow & more.
+- Others: Docker, Kubernetes, Celery, Redis, RabbitMQ, Kafka, Airflow & more.
 
 
 ## Hobbies
