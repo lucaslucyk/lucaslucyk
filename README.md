@@ -1,6 +1,7 @@
 ## Hello 👋
 
-I'm developer with experience in software consulting, management and development of Time & Attendance, Access, Crypto, APIs and more projects. I'm Co-Founder of [ELEDE Group](https://grupoelede.com) and currently work as a developer at [SPEC, SA](https://www.grupospec.com/es), for projects in Argentina, LATAM and Europe.
+I'm a developer with experience in software consulting, management, and development of Time & Attendance, Access, Crypto, APIs, and other projects.
+Currently, I work as a Software Architect at [SPEC, SA](https://www.grupospec.com/es), Tech Lead at [TACH LA](https://tach.la), and Co-Founder of [ELEDE Group](https://grupoelede.com), leading and contributing to projects across Argentina, LATAM, and Europe.
 
 
 ## Projects
